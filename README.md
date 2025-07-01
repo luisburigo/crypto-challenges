@@ -1,6 +1,6 @@
 # Crypto Challenges
 
-Solutions to [Crypto Challenges](https://cryptochallenges.io), implemented in **Rust** with a focus on practical
+Solutions to [CryptoPals](https://cryptopals.com/), implemented in **Rust** with a focus on practical
 cryptographic algorithms.
 
 ## Challenge Set 1
