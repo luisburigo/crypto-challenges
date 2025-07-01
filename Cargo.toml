@@ -1,5 +1,6 @@
 [workspace]
 resolver = "2"
 members = [
-    "challenges/base64"
+    "challenges/base64",
+    "challenges/fixed_xor"
 ]

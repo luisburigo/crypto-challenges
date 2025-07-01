@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "base64"
 version = "0.1.0"
+
+[[package]]
+name = "fixed_xor"
+version = "0.1.0"
