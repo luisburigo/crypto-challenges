@@ -75,8 +75,7 @@ mod tests {
 
     #[test]
     fn should_encode_str_to_base64_correctly() {
-        // let message = "Encoded";
-        let message = "Hello";
+        let message = "Encoded";
         let expected = "RW5jb2RlZA==";
         let encoded = str_to_base64(message);
         assert_eq!(encoded, expected);
